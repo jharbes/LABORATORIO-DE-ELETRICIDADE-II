@@ -1,0 +1,13 @@
+Another Proud Upload by CracksHash.com
+==================================================
+
+Instruções:
+
+1. Instale o programa a partir do arquivo de setup fornecido: "Proteus 8.11 SP0 Pro.exe".
+2. Aguarde a instalação completa.
+3. Pronto. É só executar.
+
+Se ocorrer um erro do tipo "No Libraries Found!" ao tentar inserir um componente no esquemático,
+entre nesse link e siga o passo-a_passo:
+
+https://www.youtube.com/watch?v=07KNv8Zn6x0
